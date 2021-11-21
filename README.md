@@ -8,9 +8,9 @@ Size of Dataset: 10,000 records
 
 #### FEATURES:
 
-CustomerId : Unique id for each customer
-Surname : Customer surname
-CreditScore : Credit score based on transaction history
+CUSTOMERID : Unique id for each customer
+SURNAME : Customer surname
+CREDITSCORE : Credit score based on transaction history
 Geography : Customer Location
 Gender : Customer Gender
 Age : Age of customer
