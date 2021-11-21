@@ -8,19 +8,19 @@ Size of Dataset: 10,000 records
 
 #### FEATURES:
 
-CustomerId : Unique id for each customer
-Surname : Customer surname
-CreditScore : Credit score based on transaction history
-Geography : Customer Location
-Gender : Customer Gender
-Age : Age of customer
-Tenure : Period
-Balance : Customer account balance
-NumOfProducts : no. of product from banks like credit card / debit card
-HasCrCard : Customer is having credit card or not
-IsActiveMember : Customer account is active or not based on frequency of transactions based on recent data
-EstimatedSalary  : Customer salary
-Exited : Target varible, i.e customer account withdraw 1- withdraw, 0 - not withdraw
+###### CustomerId : Unique id for each customer
+###### Surname : Customer surname
+###### CreditScore : Credit score based on transaction history
+###### Geography : Customer Location
+###### Gender : Customer Gender
+###### Age : Age of customer
+###### Tenure : Period
+###### Balance : Customer account balance
+###### NumOfProducts : no. of product from banks like credit card / debit card
+###### HasCrCard : Customer is having credit card or not
+###### IsActiveMember : Customer account is active or not based on frequency of transactions based on recent data
+###### EstimatedSalary  : Customer salary
+###### Exited : Target varible, i.e customer account withdraw 1- withdraw, 0 - not withdraw
 
 After analysis we encoded some features & dropped some features which are not important
 
