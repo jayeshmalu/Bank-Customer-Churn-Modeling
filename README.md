@@ -26,7 +26,7 @@ Size of Dataset: 10,000 records
 
 After analysis we encoded some features & dropped some features which are not important
 
-#### Solution :
+#### Model Building :
 So after preparing dataset & Analysis of data, now to accelerate the process of model selection we are used pycaret library to find best model on the basis of Accuracy, AUC, Recall, Precision, F1 Score
 
 Selected model : Gradient Boosting Classifier with Accuracy of 86.6% by tunning some hyperparameter
