@@ -1,7 +1,9 @@
 # Bank Customer Churn Modeling
 
 ### Problem Statement : Predicting which customer is going to withdraw his/her account from bank
-##### When any customer withdraws his/her account from the bank, that is a big loss for a bank. So to overcome this kind of losses I have built an AI/ML-Based Model that will recommend bank peoples to target those customers who are going to withdraw their account so that they can provide them better service to retain customers
+
+## Solution :
+#### When any customer withdraws his/her account from the bank, that is a big loss for a bank. So to overcome this kind of losses I have built an AI/ML-Based Model that will recommend bank peoples to target those customers who are going to withdraw their account so that they can provide them better service to retain customers
 
 
 #### About Dataset :
