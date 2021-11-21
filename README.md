@@ -30,10 +30,10 @@ So after preparing dataset & Analysis of data, now to accelerate the process of 
 Selected model : Gradient Boosting Classifier with Accuracy of 86.6% by tunning some hyperparameter
 
 #### Notebooks:
-Bank Customer Churn Modeling - Analysis.ipynb  -- Analysis notebook
-Bank Customer Churn Modeling - Pycaret.ipynb  -- For finding best model
-Bank Customer Churn Modeling - SK-Learn.ipynb  -- we used sk-learn library to create Gradient Boosting Classifier model
-Bank Customer Churn Modeling - ANN.ipnb  -- ANN model for prediction - 86% accuracy
+###### Bank Customer Churn Modeling - Analysis.ipynb  -- Analysis notebook
+###### Bank Customer Churn Modeling - Pycaret.ipynb  -- For finding best model
+###### Bank Customer Churn Modeling - SK-Learn.ipynb  -- we used sk-learn library to create Gradient Boosting Classifier model
+###### Bank Customer Churn Modeling - ANN.ipnb  -- ANN model for prediction - 86% accuracy
 
 #### Model:
 churn_model.pkl 
