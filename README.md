@@ -1,4 +1,4 @@
-# Bank Customer Churn Modeling
+# Bank Customer Churn Prediction
 
 ### Problem Statement : Predicting which customer is going to withdraw his/her account from bank
 
